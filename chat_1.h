@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../headers/sha_1.h"
+#include "sha_1.h"
 #include <string.h>
 
 #define SIZE 20
