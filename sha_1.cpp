@@ -1,4 +1,4 @@
-#include "../headers/sha_1.h"
+#include "sha_1.h"
 #include <string.h>
 
 uint cycle_shift_left(uint val, int bit_count) {
