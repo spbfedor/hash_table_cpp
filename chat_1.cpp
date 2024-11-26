@@ -1,5 +1,5 @@
-#include "../headers/chat_1.h"
-#include "../headers/sha_1.h"
+#include "chat_1.h"
+#include "sha_1.h"
 #include <iostream>
 #include <string.h>
 
